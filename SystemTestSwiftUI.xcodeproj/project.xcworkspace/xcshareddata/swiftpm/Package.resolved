@@ -1,0 +1,15 @@
+{
+  "originHash" : "ed2c7a3e69acc779d3af633f3c9119b06c2f4b74d5b71471ff1b106196edc014",
+  "pins" : [
+    {
+      "identity" : "coreswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Mahaboobsab/CoreSwift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "9d41f59a2c93f91debd05db3f7a01e0eafecee2b"
+      }
+    }
+  ],
+  "version" : 3
+}
